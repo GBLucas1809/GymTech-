@@ -1,12 +1,11 @@
 <!--HTML-->
 <template>
-
-
+  <HomePageLogin></HomePageLogin>
 </template>
 
 <!--JAVASCRIPT-->
-<script>
-
+<script setup>
+  import HomePageLogin from './views/HomePageLogin.vue';
 </script>
 
 <!--CSS-->
